@@ -1,4 +1,4 @@
-
+This change was made in dev branch.
 # Git Demo Project
 =======
 # Introduction 
@@ -21,4 +21,4 @@ If you want to learn more about creating good readme files then refer the follow
 - [ASP.NET Core](https://github.com/aspnet/Home)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
->>>>>>> 51171604688ae08633b66d5d6b11b3282cf088e7
+
